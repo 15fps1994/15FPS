@@ -1,1 +1,23 @@
- 
+ [
+  {
+    "Icon": "https://site.com/icons/app1.png",
+    "Name": "App One",
+    "Url": "https://site.com/files/app1.zip",
+    "Version": "1.0.0",
+    "Tag": "programs"
+  },
+  {
+    "Icon": "https://site.com/icons/app2.png",
+    "Name": "App Two",
+    "Url": "https://site.com/files/app2.zip",
+    "Version": "2.1.3",
+    "Tag": "games"
+  },
+  {
+    "Icon": "https://site.com/icons/tool.png",
+    "Name": "Tool Kit",
+    "Url": "https://site.com/files/tool.zip",
+    "Version": "0.9.5",
+    "Tag": "tools"
+  }
+]
